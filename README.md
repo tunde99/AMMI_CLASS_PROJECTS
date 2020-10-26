@@ -1,6 +1,6 @@
 # AMMI_GHANA
-This repository contain files on the following:
+This repository contain files on the following class activities:
 
-* Class tutorials 
-* exercises  
-* projects
+* Tutorials 
+* Exercises  
+* Projects
